@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Mateusz 
+*I am a 42 Warsaw student*
 
-<!--
-**DarkUnicorn42/DarkUnicorn42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Toolkit:
 
-Here are some ideas to get you started:
+### 42 Common Core: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### In Progress:
+`Common Core:`
+> push_swap </br>
+> minitalk
+
+`Personal:`
+> website </br>
+
+If you need anything, feel free to reach me anywhere you can! ❄️
+#
