@@ -9,7 +9,8 @@
 
 ### In Progress:
 `Common Core:`
-> minishell </br>
+> Net_Practice </br>
+> C++ </br>
 
 `Personal:`
 > TiManager </br>
