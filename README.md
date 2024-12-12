@@ -9,7 +9,7 @@
 
 ### In Progress:
 `Common Core:`
-> Net_Practice </br>
+> cub3d </br>
 > C++ </br>
 
 `Personal:`
